@@ -152,7 +152,7 @@ html {
     width: 160px;
     height: 450px;
     border: 1px solid blue;
-    margin: 15px;
+    margin: 20px;
     align-items: center;
     text-align: justify;
     padding: 10px;
@@ -232,8 +232,7 @@ html {
         height: 175px;
         border-radius: 20%;
         text-align: center;
-        padding: 10px;
-        margin-left: 25px;
+        padding: 0px;
 }
     #pic h1 {
     margin: 5px;
@@ -241,13 +240,18 @@ html {
     #about {
     display: block;
 }
+    #about h1 {
+        padding: 20px;
+    }
     #intro h2 {
         font-size: 1.6rem;
-        text-align: center;
 }
+    .row {
+        flex-direction: column;
+    }
     .box {
         width: 55px;
-        height: 250px;
+        height: 250px;   
 }
     .box h1 {
         font-size: 10px;
@@ -267,10 +271,10 @@ html {
         width: 30%;
 }
 }  
-/* end of media query */
+/* end of media query for iphone */
 
 /* media query for tablet */
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 850px) {
     #pic {
         flex-direction: column;
         padding: 40px;
@@ -284,6 +288,9 @@ html {
    #intro h2 {
         text-align: center;
 }
+    .row {
+        justify-content: center;
+    }
     .box {
         width: 7rem;
 }

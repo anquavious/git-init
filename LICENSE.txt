@@ -1,17 +1,3 @@
-#Portfolio>
-
-## Description
-
-I created my portolio to showcase a sample of my programming skills and work for potential employers to view. The portfolio contains my photo and a brief about me section to show employees my passions, skillset, and the projects I have accomplished and will be accomplishing in the future. This project has learned me how to add structured content on a website using code and how to use media queries to make it function, for desktop, iphone, and tablet. I also learned how to add a submission forms.
-
-## Usage
-
-Screenshot of Portfolio
-
-![](Portfolio%20Screenshot.jpeg)
-
-## License
-
 MIT License
 
 Copyright (c) [2022] [Anquavious Grant]
@@ -33,7 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Features
-
-Home, About Me, Portfolio, Services, Contact Me
