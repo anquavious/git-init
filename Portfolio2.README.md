@@ -8,7 +8,7 @@ I created my portolio to showcase a sample of my programming skills and work for
 
 Screenshot of Portfolio
 
-![](Portfolio%20Screenshot.jpeg)
+![](../Portfolio%20Screenshot.jpeg)
 
 ## License
 
